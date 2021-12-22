@@ -8,5 +8,8 @@ Usage:
 You must have Python3 and Selenium+Chrome installed!
 
 1-Start the "start.bat"
+
 2-Type in what you want HTTP | SOCKS4 | SOCKS5
+
 3-Press enter and wait for it to end, you will find the proxies in the same directory as "Proxys.txt"
+
